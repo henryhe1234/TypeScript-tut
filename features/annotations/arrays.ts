@@ -18,4 +18,4 @@ carMaker.map((car: string): string => {
 const importantDates: (Date | string)[] = [new Date()];
 importantDates.push("222");
 importantDates.push(new Date());
-console.log(importantDates); //
+console.log(importantDates);
